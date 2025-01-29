@@ -23,3 +23,13 @@ DeepSeek is a Chinese company focused on Artificial General Intelligence (AGI) r
   Their LLMs are used for NLP tasks (text analysis, summarization, chatbots).
 
   Research on model efficiency aligns with trends in scalable machine learning.
+  
+2. DeepSeek-R1 (AI Assistant)
+   
+ㆍA conversational AI assistant developed by DeepSeek, designed for tasks like:
+
+   Answering technical questions.
+
+   Assisting with coding, data analysis, and research.
+
+   Providing insights for decision-making.
